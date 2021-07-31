@@ -1,0 +1,13 @@
+# 분석 1주차 Github 강의
+# GIT 저장소에 올리는 방법
+
+#1. git init (현재 디렉토리를 git 저장소로 변환)
+#2. git status (파일이 추가되어 있는지 확인)
+#3. git add . (전체 파일 추가하기)
+#4. git commit -m "Hello Github" (인덱스에 추가 된 파일의 내용을 저장소에 쓸 때)
+#5. git push origin master 후 로그인하면 저장소에 업로드 완료 !
+
+# Push 전엔 Pull이 있다.
+# 먼저 github pull로 당겨오고 작업해야한다 !
+# Pull : git pull origin master
+# Push : git status, git add ., git commit -m "message", git push origin master
